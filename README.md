@@ -1,2 +1,1 @@
-# js-project
-GoIt Learning - js 
+# bc3-js-project
